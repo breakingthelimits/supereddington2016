@@ -1,11 +1,12 @@
 # Site settings
-title: Super Eddington 2015
+title: Super Eddington 2016
 email: "bachetti at oa-cagliari.inaf.it"
 url: https://matteobachetti.github.io
 description: "Conference about Super-Eddington accretion, to be held in Arbatax (OG), Italy, on Oct. 19--23, 2016"
 
-baseurl: /supereddington2015
- 
+
+baseurl: /supereddington2016
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
