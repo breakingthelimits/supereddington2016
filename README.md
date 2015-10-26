@@ -1,4 +1,4 @@
-Super Eddington 2015
+Super Eddington 2016
 =========================
 
-http://matteobachetti.github.io/supereddington2015/
+http://matteobachetti.github.io/supereddington2016/
