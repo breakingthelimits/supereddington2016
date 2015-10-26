@@ -1,3 +1,4 @@
 Super Eddington 2015
 =========================
-This conference will be awesome
+
+http://matteobachetti.github.io/supereddington2015/
