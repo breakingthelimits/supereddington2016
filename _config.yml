@@ -3,7 +3,7 @@ title: Super Eddington 2015
 email: bachetti@oa-cagliari.inaf.it
 url: https://matteobachetti.github.io/supereddington2015
 description: "Conference about Super-Eddington accretion"
-baseurl: /supereddington2015
+baseurl: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
