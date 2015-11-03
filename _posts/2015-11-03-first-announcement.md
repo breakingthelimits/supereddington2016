@@ -99,5 +99,14 @@ excerpt_separator: <!--more-->
 
     The Travel Information page on the conference website will be updated soon.
 
+    SOCIAL EVENTS
+    -------------
+
+    Besides the traditional social dinner, during this workshop we will organize
+    a visit to the recently commissioned Sardinia Radio Telescope
+    (http://srt.inaf.it), a 64-m antenna for Radio Astronomy, Geodynamical
+    studies and Space science, with active surface and bleeding-edge technology,
+    able to work either in single dish or in VLBI mode.
+
     -- Francesco Tombesi and Matteo Bachetti
        on behalf of the SOC
