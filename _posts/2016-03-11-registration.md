@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Registrations are open!
+title: Registration is open!
 excerpt_separator: <!--more-->
 
 ---
@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-REGISTRATIONS ARE OPEN!
+REGISTRATION IS OPEN!
 -----------------------
 
 A registration form is available on the website:  
