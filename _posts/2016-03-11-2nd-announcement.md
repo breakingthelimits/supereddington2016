@@ -32,40 +32,40 @@ This workshop will be an opportunity to compare recent observations with state-o
 PRELIMINARY PROGRAM AND INVITED SPEAKERS
 ----------------------------------------
 
-Accretion and ejection physics<br />
+<b>Accretion and ejection physics</b><br />
 
 Aleksander Sadowski (MIT, USA) TBC<br />
 Mitch Begelman (University of Colorado, USA) TBC<br />
 
-Black hole growth and galaxy evolution<br />
+<b>Black hole growth and galaxy evolution</b><br />
 
 Marta Volonteri (IAP, France)<br />
 Marcella Brusa (University of Bologna, Italy)<br />
 Joe Silk (IAP, France) TBC<br />
 
-Active Galactic Nuclei and quasars<br />
+<b>Active Galactic Nuclei and quasars</b><br />
 
 Chris Reynolds (University of Maryland, USA)<br />
 Andrew King (University of Leicester, UK)<br />
 
-Galactic super-Eddington black holes and neutron stars<br />
+<b>Galactic super-Eddington black holes and neutron stars</b><br />
 
 Rob Fender (University of Oxford, UK)<br />
 Felix Mirabel (CEA Saclay, France)<br />
 
-Ultraluminous X-ray sources<br />
+<b>Ultraluminous X-ray sources</b><br />
 
 Ken Ohsuga (National Astronomical Observatory of Japan, Japan)<br />
 Matthew Middleton (University of Cambridge, UK)<br />
 Shin Mineshige (Kyoto University, Japan)<br />
 
-Gamma-ray bursts and tidal disruption events<br />
+<b>Gamma-ray bursts and tidal disruption events</b><br />
 
 Stefanie Komossa (Max Planck Institute, Germany)<br />
 Andrei Beloborodov (Columbia University, USA)<br />
 Luigi Piro (INAF-IAPS, Italy)<br />
 
-New and future observatories<br />
+<b>New and future observatories</b><br />
 
 Hitomi: Tadayuki Takahashi (ISAS/JAXA, Japan)<br />
 Athena: Didier Barret (IRAP, France)<br />
