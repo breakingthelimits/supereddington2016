@@ -32,44 +32,44 @@ This workshop will be an opportunity to compare recent observations with state-o
 PRELIMINARY PROGRAM AND INVITED SPEAKERS
 ----------------------------------------
 
-Accretion and ejection physics
+Accretion and ejection physics<br />
 
-Aleksander Sadowski (MIT, USA) TBC
-Mitch Begelman (University of Colorado, USA) TBC
+Aleksander Sadowski (MIT, USA) TBC<br />
+Mitch Begelman (University of Colorado, USA) TBC<br />
 
-Black hole growth and galaxy evolution
+Black hole growth and galaxy evolution<br />
 
-Marta Volonteri (IAP, France)
-Marcella Brusa (University of Bologna, Italy)
-Joe Silk (IAP, France) TBC
+Marta Volonteri (IAP, France)<br />
+Marcella Brusa (University of Bologna, Italy)<br />
+Joe Silk (IAP, France) TBC<br />
 
-Active Galactic Nuclei and quasars
+Active Galactic Nuclei and quasars<br />
 
-Chris Reynolds (University of Maryland, USA)
-Andrew King (University of Leicester, UK)
+Chris Reynolds (University of Maryland, USA)<br />
+Andrew King (University of Leicester, UK)<br />
 
-Galactic super-Eddington black holes and neutron stars
+Galactic super-Eddington black holes and neutron stars<br />
 
-Rob Fender (University of Oxford, UK)
-Felix Mirabel (CEA Saclay, France)
+Rob Fender (University of Oxford, UK)<br />
+Felix Mirabel (CEA Saclay, France)<br />
 
-Ultraluminous X-ray sources
+Ultraluminous X-ray sources<br />
 
-Ken Ohsuga (National Astronomical Observatory of Japan, Japan)
-Matthew Middleton (University of Cambridge, UK)
-Shin Mineshige (Kyoto University, Japan)
+Ken Ohsuga (National Astronomical Observatory of Japan, Japan)<br />
+Matthew Middleton (University of Cambridge, UK)<br />
+Shin Mineshige (Kyoto University, Japan)<br />
 
-Gamma-ray bursts and tidal disruption events
+Gamma-ray bursts and tidal disruption events<br />
 
-Stefanie Komossa (Max Planck Institute, Germany)
-Andrei Beloborodov (Columbia University, USA)
-Luigi Piro (INAF-IAPS, Italy)
+Stefanie Komossa (Max Planck Institute, Germany)<br />
+Andrei Beloborodov (Columbia University, USA)<br />
+Luigi Piro (INAF-IAPS, Italy)<br />
 
-New and future observatories
+New and future observatories<br />
 
-Hitomi: Tadayuki Takahashi (ISAS/JAXA, Japan)
-Athena: Didier Barret (IRAP, France)
-INAF and the Sardinia Radio Telescope: Nicolo’ D’Amico (INAF President, Italy)
+Hitomi: Tadayuki Takahashi (ISAS/JAXA, Japan)<br />
+Athena: Didier Barret (IRAP, France)<br />
+INAF and the Sardinia Radio Telescope: Nicolo’ D’Amico (INAF President, Italy)<br />
 
 
 
