@@ -18,18 +18,18 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-*********************** THIRD ANNOUNCEMENT **********************
+    *********************** THIRD ANNOUNCEMENT **********************
 
-                  	BREAKING THE LIMITS
-      	Super-Eddington Accretion on Compact Objects
+                      	BREAKING THE LIMITS
+          	Super-Eddington Accretion on Compact Objects
 
-             	Arbatax (OG), Sardinia, Italy
-                 	September 19-23, 2016
+                 	Arbatax (OG), Sardinia, Italy
+                     	September 19-23, 2016
 
-Email: supereddington2016@oa-cagliari.inaf.it
-Website: http://matteobachetti.github.io/supereddington2016
+    Email: supereddington2016@oa-cagliari.inaf.it
+    Website: http://matteobachetti.github.io/supereddington2016
 
-*****************************************************************
+    *****************************************************************
 
 RATIONALE AND PROGRAM
 ---------------------
